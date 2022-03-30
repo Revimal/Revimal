@@ -3,6 +3,7 @@
 * 🌱 I'm currently learning the backend development especially focused on the microservice architecture.
 * ✍️ I'm currently moving ahead with a side project, [Gourmet](https://github.com/Gourmet-Dev).
 * 📫 Contact: [seohho@gmail.com](mailto:seohho@gmail.com)
+* ![Hit Counter](https://komarev.com/ghpvc/?username=Revimal)
 
 ### ⏲️ Github Statistics
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=revimal&count_private=true&include_all_commits=true)
