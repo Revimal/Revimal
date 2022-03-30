@@ -8,6 +8,7 @@
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=revimal&count_private=true&include_all_commits=true)
 <br>
 ![Hit Counter](https://komarev.com/ghpvc/?username=Revimal)
+![](https://hit.yhype.me/github/profile?user_id=12669899)
 
 ### 🎯 Currently Focusing On
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
