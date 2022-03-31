@@ -1,7 +1,7 @@
 ### Hi there 👋
 * 👔 I'm currently working at Pentasecurity Systems Inc. as a software engineer.
-* 🌱 I'm currently learning the backend development especially focused on the microservice architecture.
-* ✍️ I'm currently moving ahead with a side project, [Gourmet](https://github.com/Gourmet-Dev).
+* 🌱 I'm currently learning the backend development focused on the microservice architecture.
+* ✍️ I'm currently moving ahead with the side project, [Gourmet](https://github.com/Gourmet-Dev).
 * 📫 Contact: [seohho@gmail.com](mailto:seohho@gmail.com)
 
 ### ⏲️ Github Statistics
