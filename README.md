@@ -3,6 +3,7 @@
 * 🌱 I’m currently learning backend development, mainly focusing on MSA.
 * ✍️ I’m currently working on a side project, [Gourmet](https://github.com/Gourmet-Dev).
 * 📫 Contact: [seohho@gmail.com](mailto:seohho@gmail.com)
+* 📑 Resume: [resume.revimal.me](https://resume.revimal.me)
 
 ### ⏲️ Github Statistics
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=revimal&count_private=true&include_all_commits=true)
@@ -37,6 +38,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### ✍️ Articles
+[![Velog's Latest Article](https://velog-readme-stats.vercel.app/api?name=revimal)](https://velog.io/@revimal)
+<br>
+👆 Click the card to read more articles!
 
 <!--
 **Revimal/Revimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
