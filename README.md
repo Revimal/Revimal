@@ -1,5 +1,5 @@
 ### 👋 Hi there
-* 👔 I’m currently a software engineer at Pentasecurity Systems Inc.
+* 👔 I worked in a high-performance networking framework development for 5-years.
 * 🌱 I’m currently learning backend development, mainly focusing on MSA.
 * ⌨️ I’m currently working on a side project, [Gourmet](https://github.com/Gourmet-Dev).
 * 📫 Contact: [seohho@gmail.com](mailto:seohho@gmail.com)
