@@ -5,7 +5,7 @@
 * 📑 Resume: [resume.revimal.me](https://resume.revimal.me)
 
 ### ⏲️ Github Statistics
-![Github statistics](https://github-readme-stats.vercel.app/api?username=revimal&count_private=true&include_all_commits=true)
+![Github statistics](https://github-readme-stats.vercel.app/api?username=revimal)
 <br>
 ![Hit Counter](https://komarev.com/ghpvc/?username=Revimal)
 ![](https://hit.yhype.me/github/profile?user_id=12669899)
